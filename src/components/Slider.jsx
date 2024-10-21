@@ -8,12 +8,12 @@ import img3 from '../assets/images/Slide3.webp'
 const images = [
   {
     src: img1,
-    // caption: "Acupressure Slide 1",
+    caption: "Acupressure Slide 1",
   },
 
   {
     src: img2,
-    // caption: "Acupressure Slide 2",
+    caption: "Acupressure Slide 2",
   },
 
   {
