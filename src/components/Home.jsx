@@ -7,7 +7,7 @@ function Home() {
         { image: 'https://i.pinimg.com/236x/2d/88/31/2d8831b60c1998069b842c5e52a249f3.jpg', text: 'Lorem ipsum dolor sit amet consect ', text1: 'This i para1' },
         { image: 'https://i.pinimg.com/enabled_hi/236x/9d/b8/37/9db83764f7db347c90f65fc3c85b4578.jpg', text: 'Rahul', text1: 'This i para2 ' },
         { image: 'https://i.pinimg.com/enabled_hi/236x/27/22/a1/2722a15b0d264ce728dc38a5dadb76b4.jpg', text: 'Box 3', text1: 'This i para3' },
-        { image: 'https://i.pinimg.com/236x/ff/84/d7/ff84d749fe1f363d801dba65cef0a6dd.jpg', text: 'Box Suraj kumar', text1: 'This i para4' },
+        { image: 'https://i.pinimg.com/236x/ff/84/d7/ff84d749fe1f363d801dba65cef0a6dd.jpg', text: 'Box 4', text1: 'This i para4' },
         { image: 'https://i.pinimg.com/236x/11/b8/b7/11b8b74df912e6589f76f71f91627352.jpg', text: 'Box 5', text1: 'This i para5' },
         { image: 'https://i.pinimg.com/236x/e4/a1/6f/e4a16fb0b1f06deeab45f442b8b22ce3.jpg', text: 'Box 6', text1: 'This i para6' },
         { image: 'https://i.pinimg.com/236x/a8/d4/4d/a8d44d1f7c7b8d3d666cbe21d68ddb9c.jpg', text: 'Box 7', text1: 'This i para7' },
@@ -18,10 +18,9 @@ function Home() {
         { image: 'https://i.pinimg.com/736x/ef/ab/71/efab71e3d613096f57ed9af20e2be98a.jpg', text: 'Box 12', text1: 'This i para12' },
     ];
 
- cx cx
     return (
         <>
-        <Slider/>
+            <Slider />
             <div className="container mx-auto  ">
                 <h2 className="text-[30px] font-bold mt-10 text-center"> Relax Your Body</h2>
                 <div className="grid grid-cols-1 p-10 sm:grid-cols-2 lg:grid-cols-3 gap-8 overflow-hidden">

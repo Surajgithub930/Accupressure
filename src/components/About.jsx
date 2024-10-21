@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <div id="about" className="py-16 text-center">
-      <h2 className="text-3xl font-bold text-green-600">About Us Suraj Kumar</h2>
+      <h2 className="text-3xl font-bold text-green-600">About Us</h2>
       <p className="mt-6 mx-auto text-[17px] max-w-[80%] leading-7">
 Acupressure is an ancient healing technique that originates from traditional Chinese medicine. It involves applying gentle pressure to specific points on the body, known as acupoints, to promote relaxation, balance energy, and alleviate various health issues. This technique is based on the concept of "Qi" (life energy), which flows through pathways or meridians in the body. When the flow of Qi is blocked or unbalanced, it can lead to pain or illness.
 
